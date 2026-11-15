@@ -88,15 +88,6 @@ The game requires its assets and runtime libraries to be accessible at runtime. 
 
 **Build status:** These instructions reflect the checked-in CMake configuration; a clean-machine build has not been independently verified.
 
-## Project Context and Credits
-
-This project was developed collaboratively as an academic game-development project. The repository's original contribution notes identify the following areas of work:
-
-- **蔡文鎮:** Game structure and audio (50%).
-- **楊愛玉:** Graphics design and animation (50%).
-
-The project uses Allegro 5 and includes game assets and third-party dependencies. Please review the applicable licenses or permissions before redistributing those materials.
-
 ## Gameplay Preview
 
 Gameplay screenshots or a short GIF can be added here to show the combat, menus, and animation systems. Keeping media in a `docs/` folder can help make this README easier to maintain.
